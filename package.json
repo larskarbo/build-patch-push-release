@@ -1,0 +1,6 @@
+{
+  "name": "@larskarbo/build-patch-push-release",
+  "version": "1.0.0",
+  "bin": "./build-patch-push-release.sh",
+  "license": "MIT"
+}
